@@ -1,0 +1,6 @@
+{
+    "endpoints": {
+        "getById": "https://thecocktaildb.com/api/json/v1/1/lookup.php?i=",
+        "autoComplete": "https://thecocktaildb.com/api/json/v1/1/search.php?f="
+    }
+}
